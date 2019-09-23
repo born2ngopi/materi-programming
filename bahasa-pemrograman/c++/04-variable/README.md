@@ -4,6 +4,8 @@
 
 variabel adalah tempat yang berfungsi untuk menyimpan data sementara, nilai variabel bisa berasal dari programmer, penguna, atau hasil pemrosessan program. cara deklarasi variabel di c++
 
+`typedata` `nama_variable` = `nilai`
+
 ```c++
 int main(){
     // langsung di insialisasi
